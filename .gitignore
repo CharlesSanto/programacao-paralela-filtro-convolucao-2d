@@ -1,0 +1,8 @@
+bin/
+*.exe
+*.out
+gmon.out
+*.gprof
+.DS_Store
+.vscode/
+.idea/
