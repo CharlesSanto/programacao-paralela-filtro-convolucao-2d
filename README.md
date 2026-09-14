@@ -1,0 +1,1 @@
+# programacao-paralela-filtro-convolucao-2d
